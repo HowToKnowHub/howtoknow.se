@@ -9,8 +9,8 @@ kramdown:
 title:               wwwBase
 tagline:             'Github page and blog starter'
 description:         'What I(and you) need to start a new github page.'
-url:                 'https://mumma.nu/'
-baseurl:             '/wwwBase/'
+url:                 'https://howtoknow.se/'
+baseurl:             '/'
 paginate:            5
 permalink:           pretty
 paginate_path:       "blog/page:num"
@@ -19,15 +19,15 @@ banner:              banner.jpg
 # About/contact
 author:
   name:              Patrik Gustafsson
-  url:               https://twitter.com/paven
-  email:             wwwBase@mumma.nu
+  url:               https://www.linkedin.com/in/paven/
+  email:             patrik@howtoknow.se
 
 # Custom vars
 version:          0.0.2
 google_analytics_id: #UA-XXXX-Y
 
 github:
-  repo:           https://github.com/paven/wwwBase
+  repo:           https://github.com/howtoknowhub/howtoknow.se
 
 plugins:
   - jekyll-paginate
