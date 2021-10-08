@@ -1,14 +1,14 @@
 # Dependencies
 markdown:         kramdown
-highlighter:      pygments
+highlighter:      rouge 
 
 kramdown:
   input: GFM
 
 # Setup
-title:               wwwBase
-tagline:             'Github page and blog starter'
-description:         'What I(and you) need to start a new github page.'
+title:               How To Know
+tagline:             'Organizational Learning'
+description:         'Helping you to build a colaborative learning organization.'
 url:                 'https://howtoknow.se/'
 baseurl:             '/'
 paginate:            5
@@ -20,7 +20,7 @@ banner:              banner.jpg
 author:
   name:              Patrik Gustafsson
   url:               https://www.linkedin.com/in/paven/
-  email:             patrik@howtoknow.se
+  email:             info@howtoknow.se
 
 # Custom vars
 version:          0.0.2

@@ -8,12 +8,11 @@ parent: About
 
 # How To Know
 
-Company page for How to Know AB. A samll company makeing organisations better through a learning mindset.
+Company page for How to Know AB. A smal company makeing organisations better through a colabrative learning mindset.
 
 ## Author
 Copyright (c) 2020 Patrik Gustafsson
 - <https://www.linkedin.com/in/paven/>
-- <https://twitter.com/paven>
 - <https://twitter.com/paven>
 
 # wwwBase
