@@ -4,6 +4,10 @@ Copyright (c) 2020 Patrik Gustafsson
 - <https://www.linkedin.com/in/paven/>
 - <https://twitter.com/paven>
 
+# Grafics
+
+## Banner
+
 
 # Software and documentation released under MIT License
 
