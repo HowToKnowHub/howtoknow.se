@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-next_page: apage
 ---
 
 I am Patrik Gustafsson. 

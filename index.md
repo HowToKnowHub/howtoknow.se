@@ -4,6 +4,11 @@ title: Home
 next_page: about
 ---
 
-This is the start page
+How To Know AB
 
-Go to the  [blog](blog)
+* Organisational Learning
+* Colaborative decision making
+* Product Development
+* Professional Coaching
+
+contact: [info@howtoknow.se](mailto:info@howtoknow.se).  
