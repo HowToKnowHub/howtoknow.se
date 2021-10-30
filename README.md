@@ -3,6 +3,7 @@ layout: page
 title: Readme
 next_page: /
 parent: About
+navigation: false
 ---
 <!-- Remove above to not include readme as page in webpage. -->
 

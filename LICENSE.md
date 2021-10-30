@@ -1,3 +1,10 @@
+---
+layout: page
+title: Licence
+next_page: /
+parent: About
+---
+
 # Content
 
 Copyright (c) 2020 Patrik Gustafsson
