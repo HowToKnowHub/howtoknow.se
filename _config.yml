@@ -1,14 +1,14 @@
 # Dependencies
 markdown:         kramdown
-highlighter:      rouge 
+highlighter:      rouge
 
 kramdown:
   input: GFM
 
 # Setup
 title:               How To Know
-tagline:             'Organizational Learning'
-description:         'Helping you to build a colaborative learning organization.'
+tagline:             'unleash people and product'
+description:         'How To Know is a about product management, leadership and software development. We aim to help you unleash your potential and make a difference in the world.'
 url:                 'https://howtoknow.se/'
 baseurl:             '/'
 paginate:            5
