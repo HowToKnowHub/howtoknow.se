@@ -12,3 +12,6 @@ img.logo {
 .masthead {
   background-color: #9D2FA3;
 }
+.masthead-title a {
+  color: #ffffff;
+}
