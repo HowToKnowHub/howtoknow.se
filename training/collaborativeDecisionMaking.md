@@ -13,9 +13,6 @@ This hands-on workshop is available as a flexible in-house program (half-day, fu
 ## About Your Facilitator
 Hi, I'm Patrik - an experienced Engineering Manager and Agile Coach with a passion for building software organizations that excel in both product delivery and people development. Among my extensive toolkit for organizational excellence, I've cultivated deep expertise in **Collaborative Decision-Making** frameworks, helping teams navigate complex challenges with confidence and clarity.
 
-
-
-
 ## What Your Team Will Learn
 
 * **Practical Frameworks:** Learn how to apply specific decision-making models to real-world scenarios.
@@ -53,5 +50,5 @@ Our Collaborative Decision-Making Workshop is designed to help teams make better
 * Real-world case studies
 * Hands-on practice sessions
 
-For more information, contact us at [info@howtoknow.se](mailto:info@howtoknow.se).
+For more information, contact us at [training@howtoknow.se](mailto:training@howtoknow.se).
 
