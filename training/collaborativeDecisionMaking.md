@@ -7,9 +7,9 @@ title: Collaborative Decision-Making Workshop
 
 **Unlock Effective Team Decisions with Practical, Actionable Strategies!** 🤝
 
-At [www.howtoknow.se](www.howtoknow.se), we understand that strong decision-making is the cornerstone of successful teams. But how do you move beyond theory and implement real, impactful change?
+Strong decision-making is the cornerstone of successful teams. However, many teams struggle to move beyond theoretical knowledge and basic approaches to implement real, impactful change. Our workshop is designed to bridge this gap by providing practical, actionable strategies that address your team's specific needs and challenges.
 
-I'm Patrik, and I specialize in equipping teams with the tools and techniques needed for **Collaborative Decision-Making**. Drawing from my experience as an Engineering Manager and agile coach, I've developed a 1 or 2-day in-house workshop focused on delivering practical, actionable strategies.
+I'm Patrik, and I specialize in equipping organisations and teams with the tools and techniques needed for **Collaborative Decision-Making**. Drawing from my experience as an Engineering Manager and agile coach, I've developed a half-day, 1-day, or 2-day in-house workshop focused on delivering practical, actionable strategies.
 
 ## What Your Team Will Learn
 
@@ -22,7 +22,7 @@ My approach is rooted in providing concrete tools and insights that teams can im
 
 ## Workshop Details
 
-* **Duration:** 1 or 2 days (customizable)
+* **Duration:** Half-day, 1 day, or 2 days (customizable)
 * **Location:** In-house at your company
 * **Target Audience:** Teams looking to enhance their collaborative decision-making skills.
 * **Format:** Interactive sessions, group exercises, and practical application.
