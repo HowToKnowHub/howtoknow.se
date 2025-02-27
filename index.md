@@ -14,6 +14,6 @@ How To Know AB
 
 ## Training
 
-We offer various training programs to enhance your skills and knowledge. Check out our [Collaborative Decision-Making Workshop](#collaborative-decision-making-workshop) for more details.
+We offer various training programs to enhance your skills and knowledge. Check out our [Collaborative Decision-Making Workshop](/training/collaborativeDecisionMaking/) for more details.
 
 contact: [info@howtoknow.se](mailto:info@howtoknow.se).
