@@ -52,5 +52,10 @@ Our Collaborative Decision-Making Workshop is designed to help teams make better
 * Real-world case studies
 * Hands-on practice sessions
 
-For more information, contact us at [training@howtoknow.se](mailto:training@howtoknow.se).
+
+## Take the Next Step
+
+Don't miss out on the opportunity to elevate your team's decision-making skills. Book your workshop today and start seeing immediate improvements in collaboration, innovation, and overall team performance.
+
+[Book Your Workshop Now](mailto:training@howtoknow.se)
 
