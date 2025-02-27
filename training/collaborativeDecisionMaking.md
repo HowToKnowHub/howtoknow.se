@@ -13,6 +13,8 @@ This hands-on workshop is available as a flexible in-house program (half-day, fu
 ## About Your Facilitator
 Hi, I'm Patrik - an experienced Engineering Manager and Agile Coach with a passion for building software organizations that excel in both product delivery and people development. Among my extensive toolkit for organizational excellence, I've cultivated deep expertise in **Collaborative Decision-Making** frameworks, helping teams navigate complex challenges with confidence and clarity.
 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/pgaddg/).
+
 ## What Your Team Will Learn
 
 * **Practical Frameworks:** Learn how to apply specific decision-making models to real-world scenarios.
