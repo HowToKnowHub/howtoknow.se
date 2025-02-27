@@ -6,10 +6,15 @@ title: Collaborative Decision-Making Workshop
 # Collaborative Decision-Making Workshop
 
 **Unlock Effective Team Decisions with Practical, Actionable Strategies!** 🤝
+Strong decision-making is the cornerstone of successful teams. However, many teams struggle to move beyond theoretical knowledge and basic approaches to implement real, impactful change.
 
-Strong decision-making is the cornerstone of successful teams. However, many teams struggle to move beyond theoretical knowledge and basic approaches to implement real, impactful change. Our workshop is designed to bridge this gap by providing practical, actionable strategies that address your team's specific needs and challenges.
+This hands-on workshop is available as a flexible in-house program (half-day, full-day, or comprehensive two-day format) tailored specifically for software development teams. We blend practical theory with interactive exercises that address your team's unique challenges. Participants leave equipped with concrete strategies to immediately enhance collective decision-making processes, driving both innovation and stronger team cohesion. The techniques learned create lasting impact—transforming how your organization collaborates on critical choices that affect product quality, team dynamics, and business outcomes.
 
-I'm Patrik, and I specialize in equipping organisations and teams with the tools and techniques needed for **Collaborative Decision-Making**. Drawing from my experience as an Engineering Manager and agile coach, I've developed a half-day, 1-day, or 2-day in-house workshop focused on delivering practical, actionable strategies.
+## About Your Facilitator
+Hi, I'm Patrik - an experienced Engineering Manager and Agile Coach with a passion for building software organizations that excel in both product delivery and people development. Among my extensive toolkit for organizational excellence, I've cultivated deep expertise in **Collaborative Decision-Making** frameworks, helping teams navigate complex challenges with confidence and clarity.
+
+
+
 
 ## What Your Team Will Learn
 
