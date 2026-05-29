@@ -10,7 +10,16 @@ How To Know AB
 * Collaborative decision-making
 * Product Development
 * Professional Coaching
+* Agentic AI
 * Training
+
+## Agentic AI
+
+AI agents are reshaping how teams work, how decisions get made, and how organisations scale. We help teams and leaders navigate this shift - from understanding what Agentic AI is, to building the practices, culture, and strategy needed to work alongside autonomous AI systems effectively.
+
+Whether you are a team learning to collaborate with AI agents, a leader shaping an AI adoption strategy, or an organisation exploring practical tools - we can help.
+
+[Get in touch](mailto:info@howtoknow.se)
 
 ## Training
 
