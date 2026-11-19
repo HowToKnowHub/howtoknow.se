@@ -9,7 +9,7 @@ navigation: false
 
 # How To Know
 
-Company page for How to Know AB. A smal company makeing organisations better through a colabrative learning mindset.
+Company page for How to Know AB. A small company making organisations better through a collaborative learning mindset.
 
 ## Author
 Copyright (c) 2020 Patrik Gustafsson
